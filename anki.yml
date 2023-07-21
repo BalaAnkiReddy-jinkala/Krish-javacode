@@ -1,0 +1,10 @@
+---
+- name: install the software
+  hosts: all
+  tasks:
+    - name: more power full 
+      user:
+        name: ankitha
+        password: nikiyh
+        uid: 234224
+        comment: "king id the name of the perwso"
