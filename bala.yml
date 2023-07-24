@@ -1,0 +1,6 @@
+To send file from working dir to stagging area
+ git add filename
+ To send multiple files into stagging area
+ git add file1 file2 file3
+ To send all files and fodlers into the stagging area
+ git add 
