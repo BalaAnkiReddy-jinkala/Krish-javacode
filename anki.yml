@@ -8,3 +8,7 @@
         password: nikiyh
         uid: 234224
         comment: "king id the name of the perwso"
+    - name: crate the file
+      file:
+        name: bala
+        state: touch
