@@ -1,10 +1,10 @@
-To send file from working dir to stagging area
+To send a file from working dir to a staging area
  git add filename
- To send multiple files into stagging area
+ To send multiple files into the staging area
  git add file1 file2 file3
- To send all files and fodlers into the stagging area
+ To send all files and folders to the staging area
  git add 
 
+Good Moving from the large number of requsters
 
-
- Hello to every one this is used for inly more number should  be move from one place
+ Hello to everyone this is used for only more number should  be move from one place
